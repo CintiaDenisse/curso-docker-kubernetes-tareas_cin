@@ -1,2 +1,4 @@
-# curso-docker-kubernetes-tareas_cin
-Primer repositorio curso Docker Kubernetes
+# Tareas - Curso Docker & Kubernetes
+
+**Autora:** Cintia Denisse Mollinedo Laura  
+**Curso:** [Curso Docker & Kubernetes - i-Quattro
